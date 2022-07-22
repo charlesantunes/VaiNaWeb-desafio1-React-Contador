@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VaiNaWeb-desafio1-React-Contador/static/css/main.b20863c2.css",
+    "main.js": "/VaiNaWeb-desafio1-React-Contador/static/js/main.334c079c.js",
+    "index.html": "/VaiNaWeb-desafio1-React-Contador/index.html",
+    "main.b20863c2.css.map": "/VaiNaWeb-desafio1-React-Contador/static/css/main.b20863c2.css.map",
+    "main.334c079c.js.map": "/VaiNaWeb-desafio1-React-Contador/static/js/main.334c079c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b20863c2.css",
+    "static/js/main.334c079c.js"
+  ]
+}
