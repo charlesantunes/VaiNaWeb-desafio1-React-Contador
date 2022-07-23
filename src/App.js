@@ -9,12 +9,10 @@ state = {
 };
 
 add = () => {
- 
     this.setState({msg: "Boa noite"}&&{
         num: this.state.num+1
       }
     );
-  
 }
 decrease = () => {
   if (this.state.num > 0) {
@@ -26,7 +24,6 @@ decrease = () => {
       }
     );
   }
-  
 }
 
   render(){
