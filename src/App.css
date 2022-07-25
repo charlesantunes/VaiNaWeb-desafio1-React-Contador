@@ -8,57 +8,76 @@
   display: flex;
 }
 .card {
+  position: relative;
   background-color: rgb(195, 231, 154);
   padding: 10px;
-  margin: 20px 0;
-  width: 20%;
+  margin: 20px auto;
+  width: 50%;
+  height: 90vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+  border-radius: 25px;
 }
-.msg{
+h1{
+  position: absolute;
+    top: 1vh;
+    font-size: 3rem;
+    text-align: center;
+}
+.imagem{
+  position: absolute;
+  width: 70%;
+  margin: 0 auto;
+  top: 22vh;
+}.imagem img{
+  border-radius: 20px;
+  width: 100%;
+}
+h2 {
+  position: absolute;
+  top: 50vh;
+  font-size: 4rem;
   text-align: center;
 }
-
-
-
-
-/* .App {
+.increase{
+  position: absolute;
+    top: 72vh;
+    left: 30vw;
+    font-size: 3rem;
+    text-align: center;
+}
+.decrease{
+position: absolute;
+  top: 72vh;
+  left: 18vw;
+  font-size: 3rem;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
+button {
+  display: inline-block;
+  width: 10%;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  margin: 4vh 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 10s linear;
-  }
+button:hover {
+  background-color: #3e8e41
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-} */
