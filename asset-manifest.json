@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/VaiNaWeb-desafio1-React-Contador/static/css/main.b20863c2.css",
-    "main.js": "/VaiNaWeb-desafio1-React-Contador/static/js/main.334c079c.js",
+    "main.css": "/VaiNaWeb-desafio1-React-Contador/static/css/main.f67545a6.css",
+    "main.js": "/VaiNaWeb-desafio1-React-Contador/static/js/main.247cac59.js",
+    "static/media/ryu10.gif": "/VaiNaWeb-desafio1-React-Contador/static/media/ryu10.7ac900c92bd9be9d6cfa.gif",
+    "static/media/ryu2.jpg": "/VaiNaWeb-desafio1-React-Contador/static/media/ryu2.8b54dc91e5d96fecfc38.jpg",
+    "static/media/ryu6.jpg": "/VaiNaWeb-desafio1-React-Contador/static/media/ryu6.1167ad8bbff84d334096.jpg",
+    "static/media/ryu3.jpg": "/VaiNaWeb-desafio1-React-Contador/static/media/ryu3.c8906add8bdece6dfb6e.jpg",
+    "static/media/ryu1.jpg": "/VaiNaWeb-desafio1-React-Contador/static/media/ryu1.36231082971c12881828.jpg",
+    "static/media/ryu4.jpg": "/VaiNaWeb-desafio1-React-Contador/static/media/ryu4.2e0268166949c5732022.jpg",
+    "static/media/ryu9.jpg": "/VaiNaWeb-desafio1-React-Contador/static/media/ryu9.1e56f28235f4174f7a3a.jpg",
+    "static/media/ryu8.jpg": "/VaiNaWeb-desafio1-React-Contador/static/media/ryu8.bddf6b8245b66fba2fc5.jpg",
+    "static/media/ryu7.jpg": "/VaiNaWeb-desafio1-React-Contador/static/media/ryu7.0ec795411a9fcae1d7ef.jpg",
+    "static/media/ryu5.jpg": "/VaiNaWeb-desafio1-React-Contador/static/media/ryu5.a01d9601b51fa9b16155.jpg",
     "index.html": "/VaiNaWeb-desafio1-React-Contador/index.html",
-    "main.b20863c2.css.map": "/VaiNaWeb-desafio1-React-Contador/static/css/main.b20863c2.css.map",
-    "main.334c079c.js.map": "/VaiNaWeb-desafio1-React-Contador/static/js/main.334c079c.js.map"
+    "main.f67545a6.css.map": "/VaiNaWeb-desafio1-React-Contador/static/css/main.f67545a6.css.map",
+    "main.247cac59.js.map": "/VaiNaWeb-desafio1-React-Contador/static/js/main.247cac59.js.map"
   },
   "entrypoints": [
-    "static/css/main.b20863c2.css",
-    "static/js/main.334c079c.js"
+    "static/css/main.f67545a6.css",
+    "static/js/main.247cac59.js"
   ]
 }
